@@ -67,3 +67,14 @@ Example:
 ```bash
 g++ program.cpp -o program
 ./program
+```
+---
+
+# Author
+
+Vedant Bakre
+B.Tech Computer Engineering Student
+
+# Note
+
+All programs are written for educational purposes and follow basic OOP concepts with simple logic for easy understanding.
