@@ -1,4 +1,6 @@
-/*Statement: Write a C++ program which demonstrates Class declaration, Object creation, Class member’s definition and Function call. Consider any suitable case study (Student, Employee Data, Library).*/
+/*Statement: Write a C++ program which demonstrates Class declaration, 
+Object creation, Class member’s definition and Function call. Consider 
+any suitable case study (Student, Employee Data, Library).*/
 
 #include <iostream>
 using namespace std;
